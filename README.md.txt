@@ -132,5 +132,3 @@ If the model files are not included in this repository, they exceeded GitHub's b
 ---
 
 ## Author
-
-Aaryan Dodda
